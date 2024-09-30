@@ -9,7 +9,7 @@ import {
   IconVolume,
 } from "@tabler/icons-react";
 import SpeechRecognitionComponent from "@/components/SpeechRecognition/SpeechRecognition";
-import TextArea from "@/components/Inputs/textarea";
+import TextArea from "@/components/Inputs/TextArea";
 import FileUpload from "@/components/Inputs/FileUpload";
 import LinkPaste from "@/components/Inputs/LinkPaste";
 import LanguageSelector from "@/components/Inputs/LanguageSelector";
